@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Denscorper
-- 👀 I’m interested in mobile Apps development
-- 🌱 I’m currently learning Android studio
 - 💞️ I’m looking to collaborate on Mobile Apps
 - 📫 How to reach me genyadennis91@gmail.com and +255744055066
 
